@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dnguyenngoc
+- 👋 Hi, I’m Duy Nguyen
 - 👀 I’m interested in AI Technology
 - 🌱 I’m currently learning Golang, React
 - 💞️ I’m looking to collaborate on Software develop
