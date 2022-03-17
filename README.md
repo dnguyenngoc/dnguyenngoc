@@ -41,16 +41,7 @@
   </a>
 </p>
 
-<!-- <p align="center">
-  <a href="https://stackshare.io/dnguyenngoc/my-personal-stack">
-    <img
-    src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat"
-    alt="Duy  :: StackShare"
-    />
-  </a>
-</p> -->
-
-## <h2 align="center">Contact with me at /h2>
+<h2 align="center">Contact with me at /h2>
 
 <p align="center">
   <a href="https://www.facebook.com/dan00pot">
