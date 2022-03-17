@@ -41,7 +41,7 @@
   </a>
 </p>
 
-<h2 align="center">Contact with me at /h2>
+<h2 align="center">Contact with me at </h2>
 
 <p align="center">
   <a href="https://www.facebook.com/dan00pot">
