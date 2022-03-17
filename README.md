@@ -10,16 +10,17 @@
 <h3 align="center">Visitor's count</h3>
 
 <p align="center">
+  Personal Repo 👀 
   <img
   src="https://profile-counter.glitch.me/{dnguyenngoc}/count.svg"
   alt="Duy Nguyen :: Visitor's Count"
   />
-   Personal Repo 👀
+
 </p>
 
 
 <p align="left">
-  Apot Group 👀
+  Apot Group 👀 
   <img
   src="https://profile-counter.glitch.me/{apot-group}/count.svg"
   alt="Apot-group :: Visitor's Count"
