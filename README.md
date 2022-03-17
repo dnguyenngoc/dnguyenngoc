@@ -17,7 +17,7 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <h3 align="center">Visitor's count Apot Group 👀</h3>
   <img
   src="https://profile-counter.glitch.me/{apot-group}/count.svg"
