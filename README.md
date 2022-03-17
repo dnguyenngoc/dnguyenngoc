@@ -69,6 +69,14 @@
     />
     &nbsp;&nbsp
   </a>
+  <a href="https://www.instagram.com/duy.nguyen.ngoc/">
+    <img
+     src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
+    alt="Duy Nguyen's Instagram Profile"
+    height="30" width="30"
+    />
+    &nbsp;&nbsp
+  </a>
 
 <!---
 dnguyenngoc/dnguyenngoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
