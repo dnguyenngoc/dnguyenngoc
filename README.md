@@ -7,23 +7,20 @@
 
 <h2 align="center">Github statistics 📊 </h2>
 
-<h3 align="center">Visitor's count</h3>
+<h3 align="center">Visitor's Count 👀</h3>
 
 <p align="center">
   <img
-  src="https://profile-counter.glitch.me/{dnguyenngoc}/count.svg"
-  alt="Duy Nguyen :: Visitor's Count 👀"
-  />
-  &nbsp Personal Repo &nbsp
+    src="https://profile-counter.glitch.me/{dnguyenngoc}/count.svg"
+    alt="Duy Nguyen :: Visitor's Count 👀"
+  />&nbsp Personal &nbsp
 </p>
 
-
 <p align="center">
   <img
-  src="https://profile-counter.glitch.me/{apot-group}/count.svg"
-  alt="Apot-group :: Visitor's Count"
-  />
-  &nbsp Apot Group &nbsp
+    src="https://profile-counter.glitch.me/{apot-group}/count.svg"
+    alt="Apot-group :: Visitor's Count 👀"
+  />&nbsp Apot Group &nbsp
 </p>
 
 <p align="center">
