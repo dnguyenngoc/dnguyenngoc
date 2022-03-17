@@ -13,15 +13,13 @@
   <img
     src="https://profile-counter.glitch.me/{dnguyenngoc}/count.svg"
     alt="Duy Nguyen :: Visitor's Count 👀"
-  />&nbsp Personal &nbsp
-</p>
-
-<p align="center">
+  />&nbsp Personal &nbsp  
   <img
     src="https://profile-counter.glitch.me/{apot-group}/count.svg"
     alt="Apot-group :: Visitor's Count 👀"
   />&nbsp Apot Group &nbsp
 </p>
+
 
 <p align="center">
   <a href="https://github.com/dnguyenngoc/github-readme-stats">
