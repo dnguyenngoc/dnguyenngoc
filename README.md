@@ -2,7 +2,8 @@
 - 👀 I’m interested in AI Technology
 - 🌱 I’m currently learning Golang, React
 - 💞️ I’m looking to collaborate on Software develop
-- 📫 How to reach me duynguyenngoc@hotmail.com - or join my organization at https://github.com/apot-group 
+- 📫 How to reach me duynguyenngoc@hotmail.com
+- 🔥 Join my organization at https://github.com/apot-group 
 
 
 <h2 align="center">Github statistics 📊 </h2>
