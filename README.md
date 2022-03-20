@@ -28,7 +28,7 @@
     align ="center"
     height="165"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnguyenngoc&langs_count=10&theme=tokyonight&layout=compact"
-    alt="An Do :: Top Langs"
+    alt="Duy Nguyen :: Top Langs"
     />
   </a>
   <a href="https://github.com/dnguyenngoc/github-readme-stats">
