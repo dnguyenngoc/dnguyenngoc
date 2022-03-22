@@ -35,7 +35,7 @@
     <img
     align="center"
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=dnguyenngoc&show_icons=true&theme=tokyonight"
+    src=""
     alt="Duy Nguyen :: Profile Stats"
     />
   </a>
