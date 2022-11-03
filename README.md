@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Golang, React
 - 💞️ I’m looking to collaborate on Software develop
 - 📫 How to reach me duynguyenngoc@hotmail.com
-- :smile: Read more my posts at https://dnguyenngoc.github.com
+- :smile: Read more my posts at https://dnguyenngoc.github.io
 - 🔥 Join my organization at https://github.com/apot-group 
 
 
