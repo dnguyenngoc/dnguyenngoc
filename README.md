@@ -1,3 +1,7 @@
+<div style='float:right; width:200px'>
+  <img src='dog.gif'></img>
+</div>
+
 - 👋 Hi, I’m Duy Nguyen
 - 👀 I’m interested in AI Technology
 - 🌱 I’m currently learning Golang, React
