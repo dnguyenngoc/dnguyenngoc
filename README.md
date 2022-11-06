@@ -1,14 +1,20 @@
-<div style='float:right; width:200px'>
-  <img src='dog.gif'></img>
+<div>
+  <table>
+  <tr>
+    <td valign="top">
+     <li>👋 Hi, I’m Duy Nguyen</li>
+     <li>👀 I’m interested in AI Technology</li>
+     <li>🌱 I’m currently learning Golang, React</li>
+     <li>💞️ I’m looking to collaborate on Software develop</li>
+     <li>📫 How to reach me <a href='mailto:duynguyenngoc@hotmail.com'>duynguyenngoc@hotmail.com</a></li>
+     <li>✨ Read more my posts at <a href='https://dnguyenngoc.github.io'>https://dnguyenngoc.github.io</a></li>
+     <li>🔥 Join my organization at <a href='https://github.com/apot-group'>https://github.com/apot-group</a></li>
+    </td>
+    <td valign="top"><img src='dog.gif' width="230"></img></td>
+  </tr>
+</table>
+  
 </div>
-
-- 👋 Hi, I’m Duy Nguyen
-- 👀 I’m interested in AI Technology
-- 🌱 I’m currently learning Golang, React
-- 💞️ I’m looking to collaborate on Software develop
-- 📫 How to reach me duynguyenngoc@hotmail.com
-- :smile: Read more my posts at https://dnguyenngoc.github.io
-- 🔥 Join my organization at https://github.com/apot-group 
 
 
 <h2 align="center">Github statistics 📊 </h2>
