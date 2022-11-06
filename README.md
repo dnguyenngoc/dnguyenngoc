@@ -7,7 +7,7 @@
      <li>🌱 I’m currently learning Golang, React</li>
      <li>💞️ I’m looking to collaborate on Software develop</li>
      <li>📫 How to reach me <a href='mailto:duynguyenngoc@hotmail.com'>duynguyenngoc@hotmail.com</a></li>
-     <li>✨ Read more my posts at <a href='https://dnguyenngoc.github.io'>https://dnguyenngoc.github.io</a></li>
+     <li>✨ Read more my posts at <a href='https://duynguyenngoc.com/'>https://duynguyenngoc.com/</a></li>
      <li>🔥 Join my organization at <a href='https://github.com/apot-group'>https://github.com/apot-group</a></li>
     </td>
     <td valign="top"><img src='dog.gif' width="230"></img></td>
