@@ -1,4 +1,4 @@
-<div>
+<div  align="center">
   <table>
   <tr>
     <td valign="top">
