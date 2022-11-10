@@ -55,6 +55,14 @@
 <h2 align="center">Contact with me at </h2>
 
 <p align="center">
+  <a href="https://duynguyenngoc.com">
+    <img
+    src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.thenounproject.com%2Fpng%2F3898919-200.png&imgrefurl=https%3A%2F%2Fthenounproject.com%2Ficon%2Fpersonal-website-3898919%2F&tbnid=M7f9k71X7T2fTM&vet=12ahUKEwje3cqI8qP7AhVJ-pQKHSMODxEQMygLegUIARDhAQ..i&docid=GWx10DXsdCQsdM&w=200&h=200&q=personal%20web%20icon&ved=2ahUKEwje3cqI8qP7AhVJ-pQKHSMODxEQMygLegUIARDhAQ"
+    alt="Duy Nguyen's Personal Website"
+    height="30" width="30"
+    />
+    &nbsp;&nbsp
+  </a>
   <a href="https://www.facebook.com/dan00pot">
     <img
     src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg"
