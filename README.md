@@ -44,6 +44,28 @@ class DuyNguyen:
 
 ---
 
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://duynguyenngoc.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/dnguyenngoc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/dan00pot" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/duy.nguyen.ngoc/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:duynguyenngoc@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
 ## 🥇 Tech Stack
 
 ### Programming Languages
@@ -97,14 +119,6 @@ class DuyNguyen:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dnguyenngoc&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🔭 I'm currently working on **Big Data Pipelines and ETL/ELT processes**
@@ -114,28 +128,6 @@ class DuyNguyen:
 - 🎉 Ask me about **Data Engineering**, **Big Data**, and **Cloud Data Platforms**
 - 📫 How to reach me: [duynguyenngoc@hotmail.com](mailto:duynguyenngoc@hotmail.com)
 - ⚡ Fun fact: I love building data pipelines that can handle millions of records per second
-
----
-
-## 📫 Connect with Me
-
-<div align="center">
-  <a href="https://duynguyenngoc.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/dnguyenngoc/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/dan00pot" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/duy.nguyen.ngoc/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:duynguyenngoc@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
 
 ---
 
