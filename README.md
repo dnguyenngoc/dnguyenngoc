@@ -140,6 +140,7 @@ class DuyNguyen:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnguyenngoc&theme=tokyonight" alt="mystreak"/>
 </div>
+
 ---
 
 ## 🏢 Organizations
@@ -168,5 +169,5 @@ class DuyNguyen:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+amazing+data+infrastructure!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+amazing+data+infra!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
