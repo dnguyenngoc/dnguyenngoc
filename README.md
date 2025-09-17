@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Duy+Nguyen+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Duy+Nguyen+%F0%9F%91%8B;Data+Engineer+%F0%9F%9A%80;Big+Data+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Data+Pipelines+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Duy%20Nguyen&fontSize=60&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=center" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Duy%20Nguyen&fontSize=60&fontAlignY=35&desc=Data%20Engineer%20%7C%20Big%20Data%20Specialist&descAlignY=55&descAlign=center" />
 </div>
 
 <div align="center">
@@ -15,56 +15,76 @@
 
 ## 🚀 About Me
 
-```typescript
-const duy = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Python", "Go", "Java"],
-  askMeAbout: ["web dev", "ai", "machine learning", "cloud computing"],
-  technologies: {
-    frontend: ["React", "Vue", "Angular", "Next.js"],
-    backend: ["Node.js", "Express", "FastAPI", "Gin"],
-    database: ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
-    cloud: ["AWS", "GCP", "Docker", "Kubernetes"],
-    ai: ["TensorFlow", "PyTorch", "OpenAI", "LangChain"]
-  },
-  currentFocus: "Building scalable AI-powered applications",
-  funFact: "I turn coffee into code ☕ → 💻"
-};
+```python
+class DuyNguyen:
+    def __init__(self):
+        self.role = "Data Engineer"
+        self.pronouns = "he/him"
+        self.languages = ["Python", "SQL", "Scala", "Java", "Go"]
+        self.specialties = ["ETL/ELT", "Data Pipelines", "Big Data", "Cloud Computing"]
+        
+    def current_focus(self):
+        return "Building scalable data infrastructure and AI-powered analytics"
+    
+    def ask_me_about(self):
+        return ["data engineering", "big data", "cloud data platforms", "ML pipelines"]
+    
+    def technologies(self):
+        return {
+            "data_platforms": ["Apache Airflow", "Apache Spark", "Apache Kafka", "Apache Beam"],
+            "databases": ["PostgreSQL", "BigQuery", "Snowflake", "MongoDB", "Redis"],
+            "cloud": ["GCP", "AWS", "Azure", "Docker", "Kubernetes"],
+            "ml_ops": ["MLflow", "Kubeflow", "TensorFlow", "PyTorch", "Apache Airflow"],
+            "monitoring": ["Grafana", "Prometheus", "DataDog", "ELK Stack"]
+        }
+    
+    def fun_fact(self):
+        return "I turn raw data into actionable insights �� → 💡"
 ```
+
+<div align="center">
+  <img src="dog.gif" width="230" alt="Cute Dog Animation" />
+</div>
 
 ---
 
 ## ��️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Data Engineering Tools
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/Apache%20Beam-FF6B35?style=for-the-badge&logo=apache-beam&logoColor=white)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+### Databases & Data Warehouses
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Cloud Platforms
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### DevOps & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### AI & ML
+### ML & Analytics
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF6944?style=for-the-badge&logo=dbt&logoColor=white)
 
 ---
 
@@ -99,13 +119,13 @@ const duy = {
 
 ## 🎯 Current Focus
 
-- 🔭 I'm currently working on **AI-powered applications**
-- 🌱 I'm currently learning **Golang** and **Advanced React patterns**
-- 👯 I'm looking to collaborate on **Open Source AI projects**
-- �� I'm looking for help with **Machine Learning optimization**
-- �� Ask me about **Full Stack Development** and **AI Integration**
+- 🔭 I'm currently working on **Big Data Pipelines and ETL/ELT processes**
+- 🌱 I'm currently learning **Advanced Data Engineering patterns** and **MLOps**
+- �� I'm looking to collaborate on **Open Source Data Engineering projects**
+- �� I'm looking for help with **Distributed Systems optimization**
+- �� Ask me about **Data Engineering**, **Big Data**, and **Cloud Data Platforms**
 - 📫 How to reach me: [duynguyenngoc@hotmail.com](mailto:duynguyenngoc@hotmail.com)
-- ⚡ Fun fact: I love turning complex problems into simple solutions
+- ⚡ Fun fact: I love building data pipelines that can handle millions of records per second
 
 ---
 
@@ -148,5 +168,5 @@ const duy = {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+amazing+data+infrastructure!+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
