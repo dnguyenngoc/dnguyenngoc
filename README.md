@@ -147,12 +147,12 @@ class DuyNguyen:
 
 ## 🏢 Organizations
 
-<div align="center">
-  <table>
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <table style="border-collapse: collapse; width: 100%;">
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/apot-group" target="_blank">
-          <img src="https://img.shields.io/badge/APOT%20Group-000000?style=for-the-badge&logo=github&logoColor=white" alt="APOT Group" />
+        <a href="https://github.com/apot-group" target="_blank" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/APOT%20Group-000000?style=for-the-badge&logo=github&logoColor=white" alt="APOT Group" style="transition: all 0.3s ease; border-radius: 8px;" onmouseover="this.style.filter='brightness(1.2) drop-shadow(0 0 10px #00ff00)'" onmouseout="this.style.filter='none'" />
         </a>
       </td>
       <td align="center" width="50%">
