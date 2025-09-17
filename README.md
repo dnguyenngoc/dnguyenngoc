@@ -44,7 +44,7 @@ class DuyNguyen:
 
 ---
 
-## ��️ Tech Stack
+## 🥇 Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -125,7 +125,7 @@ class DuyNguyen:
 
 ---
 
-## �� Connect with Me
+## 📫 Connect with Me
 
 <div align="center">
   <a href="https://duynguyenngoc.com" target="_blank">
@@ -150,9 +150,18 @@ class DuyNguyen:
 ## 🏢 Organizations
 
 <div align="center">
-  <a href="https://github.com/apot-group" target="_blank">
-    <img src="https://img.shields.io/badge/APOT%20Group-000000?style=for-the-badge&logo=github&logoColor=white" alt="APOT Group" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/apot-group" target="_blank">
+          <img src="https://img.shields.io/badge/APOT%20Group-000000?style=for-the-badge&logo=github&logoColor=white" alt="APOT Group" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <img src="dog.gif" width="230" alt="Cute Dog Animation" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
