@@ -135,7 +135,7 @@ class DuyNguyen:
       </td>
     </tr>
     <tr>
-      <td align="center" colspan="2">
+      <td align="center" colspan="1">
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dnguyenngoc&theme=tokyonight&hide_border=true&card_width=800" alt="mystreak"/>
       </td>
     </tr>
