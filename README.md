@@ -19,7 +19,7 @@
 class DuyNguyen:
     def __init__(self):
         self.role = "Data Engineer"
-        self.pronouns = "he/him"
+        self.pronouns = "they/we"
         self.languages = ["Python", "SQL", "Scala", "Java", "Go"]
         self.specialties = ["ETL/ELT", "Data Pipelines", "Big Data", "Cloud Computing"]
         
@@ -39,12 +39,8 @@ class DuyNguyen:
         }
     
     def fun_fact(self):
-        return "I turn raw data into actionable insights �� → 💡"
+        return "I turn raw data into actionable insights → 💡"
 ```
-
-<div align="center">
-  <img src="dog.gif" width="230" alt="Cute Dog Animation" />
-</div>
 
 ---
 
@@ -88,7 +84,7 @@ class DuyNguyen:
 
 ---
 
-## �� GitHub Analytics
+## 🐿️ GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnguyenngoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -121,9 +117,9 @@ class DuyNguyen:
 
 - 🔭 I'm currently working on **Big Data Pipelines and ETL/ELT processes**
 - 🌱 I'm currently learning **Advanced Data Engineering patterns** and **MLOps**
-- �� I'm looking to collaborate on **Open Source Data Engineering projects**
-- �� I'm looking for help with **Distributed Systems optimization**
-- �� Ask me about **Data Engineering**, **Big Data**, and **Cloud Data Platforms**
+- 🎱 I'm looking to collaborate on **Open Source Data Engineering projects**
+- 💯 I'm looking for help with **Distributed Systems optimization**
+- 🎉 Ask me about **Data Engineering**, **Big Data**, and **Cloud Data Platforms**
 - 📫 How to reach me: [duynguyenngoc@hotmail.com](mailto:duynguyenngoc@hotmail.com)
 - ⚡ Fun fact: I love building data pipelines that can handle millions of records per second
 
