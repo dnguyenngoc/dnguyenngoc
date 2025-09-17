@@ -18,21 +18,6 @@
 
 
 <h2 align="center">Github statistics 📊 </h2>
-
-<h3 align="center">Visitor's Count 👀</h3>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/{dnguyenngoc}/count.svg"
-    alt="Duy Nguyen :: Visitor's Count 👀"
-  />&nbsp Personal &nbsp  
-  <img
-    src="https://profile-counter.glitch.me/{apot-group}/count.svg"
-    alt="Apot-group :: Visitor's Count 👀"
-  />&nbsp Apot Group &nbsp
-</p>
-
-
 <p align="center">
   <a href="https://github.com/dnguyenngoc/github-readme-stats">
     <img
