@@ -124,23 +124,19 @@ class DuyNguyen:
 
 ## 🐿️ GitHub Analytics
 
-<div align="center">
-  <table style="border-collapse: collapse; width: 100%;">
-    <tr>
-      <td align="center" width="50%" style="padding: 0;">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dnguyenngoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-      </td>
-      <td align="center" width="50%" style="padding: 0;">
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnguyenngoc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <table style="border-collapse: collapse; width: 100%; border-spacing: 0; cellpadding: 0; cellspacing: 0; line-height: 0;">
+    <tr style="margin: 0; padding: 0; line-height: 0;">
+      <td align="center" colspan="2" style="padding: 0; margin: 0; border: none; vertical-align: top; line-height: 0;">
+        <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=dnguyenngoc&theme=tokyonight&hide_border=true&card_width=800" alt="mystreak"/>
       </td>
     </tr>
-  </table>
-</div>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" colspan="1">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dnguyenngoc&theme=tokyonight&hide_border=true&card_width=800" alt="mystreak"/>
+    <tr style="margin: 0; padding: 0; line-height: 0;">
+      <td align="center" width="50%" style="padding: 0; margin: 0; border: none; vertical-align: top; line-height: 0;">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dnguyenngoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=400"/>
+      </td>
+      <td align="center" width="50%" style="padding: 0; margin: 0; border: none; vertical-align: top; line-height: 0;">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnguyenngoc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=400"/>
       </td>
     </tr>
   </table>
