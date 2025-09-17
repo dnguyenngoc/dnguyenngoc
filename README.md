@@ -19,7 +19,7 @@
 class DuyNguyen:
     def __init__(self):
         self.role = "Data Engineer"
-        self.pronouns = "they/we"
+        self.pronouns = "he/him"
         self.languages = ["Python", "SQL", "Scala", "Java", "Go"]
         self.specialties = ["ETL/ELT", "Data Pipelines", "Big Data", "Cloud Computing"]
         
