@@ -125,14 +125,21 @@ class DuyNguyen:
 ## 🐿️ GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnguyenngoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnguyenngoc&layout=compact&langs_count=8&theme=tokyonight"/>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnguyenngoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td align="center" width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnguyenngoc&layout=compact&langs_count=8&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnguyenngoc&theme=tokyonight" alt="mystreak"/>
 </div>
-
 ---
 
 ## 🏢 Organizations
