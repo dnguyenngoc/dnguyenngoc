@@ -134,6 +134,10 @@ class DuyNguyen:
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnguyenngoc&layout=compact&langs_count=8&theme=tokyonight"/>
       </td>
     </tr>
+  </table>
+</div>
+<div align="center">
+  <table>
     <tr>
       <td align="center" colspan="1">
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dnguyenngoc&theme=tokyonight&hide_border=true&card_width=800" alt="mystreak"/>
@@ -141,6 +145,7 @@ class DuyNguyen:
     </tr>
   </table>
 </div>
+
 ---
 
 ## 🏢 Organizations
