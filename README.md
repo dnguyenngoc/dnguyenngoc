@@ -40,7 +40,23 @@ class DuyNguyen:
     
     def fun_fact(self):
         return "I turn raw data into actionable insights → 💡"
+
+    def gaming(self):
+        return "TFT meta enthusiast - always up to date with the latest strategies! 🎮"
+    
 ```
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 I'm currently working on **Big Data Pipelines and ETL/ELT processes**
+- 🌱 I'm currently learning **Advanced Data Engineering patterns** and **MLOps**
+- 🎱 I'm looking to collaborate on **Open Source Data Engineering projects**
+- 💯 I'm looking for help with **Distributed Systems optimization**
+- 🎉 Ask me about **Data Engineering**, **Big Data**, and **Cloud Data Platforms**
+- 📫 How to reach me: [duynguyenngoc@hotmail.com](mailto:duynguyenngoc@hotmail.com)
+- ⚡ Fun fact: I love building data pipelines that can handle millions of records per second
 
 ---
 
@@ -116,18 +132,6 @@ class DuyNguyen:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnguyenngoc&theme=tokyonight" alt="mystreak"/>
 </div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 I'm currently working on **Big Data Pipelines and ETL/ELT processes**
-- 🌱 I'm currently learning **Advanced Data Engineering patterns** and **MLOps**
-- 🎱 I'm looking to collaborate on **Open Source Data Engineering projects**
-- 💯 I'm looking for help with **Distributed Systems optimization**
-- 🎉 Ask me about **Data Engineering**, **Big Data**, and **Cloud Data Platforms**
-- 📫 How to reach me: [duynguyenngoc@hotmail.com](mailto:duynguyenngoc@hotmail.com)
-- ⚡ Fun fact: I love building data pipelines that can handle millions of records per second
 
 ---
 
