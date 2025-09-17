@@ -105,14 +105,6 @@ class DuyNguyen:
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dnguyenngoc&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🔭 I'm currently working on **Big Data Pipelines and ETL/ELT processes**
