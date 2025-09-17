@@ -125,13 +125,13 @@ class DuyNguyen:
 ## 🐿️ GitHub Analytics
 
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse; width: 100%;">
     <tr>
-      <td align="center" width="50%" colspan="2">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnguyenngoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <td align="center" width="50%" style="padding: 0;">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dnguyenngoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
       </td>
-      <td align="center" width="50%" colspan="2">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnguyenngoc&layout=compact&langs_count=8&theme=tokyonight"/>
+      <td align="center" width="50%" style="padding: 0;">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnguyenngoc&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
       </td>
     </tr>
   </table>
@@ -145,6 +145,7 @@ class DuyNguyen:
     </tr>
   </table>
 </div>
+
 
 ---
 
